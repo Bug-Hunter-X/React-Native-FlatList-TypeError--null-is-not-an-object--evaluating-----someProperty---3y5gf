@@ -1,0 +1,1 @@
+This error occurs when using a third-party library that doesn't handle null values correctly.  It often manifests as a TypeError: null is not an object (evaluating '...someProperty') inside a FlatList component when rendering a list of items that may contain null or undefined values within their data structures.
